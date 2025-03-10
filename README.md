@@ -1,4 +1,4 @@
-# h.p.m-alanneculpan-20250310-semana8
+# h.p.m-alan-neculpan-20250310-semana8
 ### Tarea correspondiente a la Semana 8 Herramientas Programacion Movil
 
 • El nombre del proyecto debe ser su nombre_apellido_fecha_seccioncurso (la fecha en formato yyyymmdd). 
